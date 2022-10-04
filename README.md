@@ -29,11 +29,11 @@ _Примечание: удаление файлов с исходными чт�
 1. Для исходных чтений:   
 ![image](https://user-images.githubusercontent.com/89806836/193799249-5b6229c1-4e06-4dd7-9cf0-29dd4b10daa2.png)   
 ![fastqc_per_sequence_quality_scores_plot](https://user-images.githubusercontent.com/89806836/193799519-e4a0c514-db94-4942-b0b7-cf40c650bddb.png)   
-[Ссылка на полный отчет]   
+[Ссылка на полный отчет](https://github.com/DaryaSushkova/hse22_hw1/blob/main/multiQC/multiqc_report.html)   
 2. Для подрезанных чтений:   
 ![image](https://user-images.githubusercontent.com/89806836/193799736-265f441b-06b3-40b1-b8e6-44454b7ad2df.png)   
 ![fastqc_per_sequence_quality_scores_plot (1)](https://user-images.githubusercontent.com/89806836/193799866-bdb8eac2-137c-4115-99dc-66e0d205f63c.png)   
-[Ссылка на полный отчет]   
+[Ссылка на полный отчет](https://github.com/DaryaSushkova/hse22_hw1/blob/main/multiQC/multiqc_report_trim.html)   
 ### [Ссылка на ноутбук Google Colab](https://colab.research.google.com/drive/1n30yJRxBCYKbarCmZ0HE_wolGy2c8fhk)   
 ### Результаты работы кода:   
 1. Основная часть задания:   
